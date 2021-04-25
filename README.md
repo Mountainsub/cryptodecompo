@@ -1,4 +1,3 @@
-# cryptodecompo
 <h1>100 poiuytrewqlkjhgfdsamnbvcxz</h1>
 <ul>snn xufu ngebmv qwtg</ul>
 <div>入力用：１行目は暗号処理をする回数と解読用コード</div>
